@@ -15,6 +15,7 @@
 - 📱 Android Developer.
 - 📖 I'm on track with learning more about Kotlin Multiplatform.
 - ⌚ In my free time, I enjoy playing basketball, watching anime and spending time with family.
+- 📫 Gmail: **angel.panduro1721@gmail.com**
 <br>
 
 <div id="user-content-toc">
