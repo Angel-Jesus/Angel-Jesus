@@ -12,10 +12,26 @@
 
 ## About Me :
 
-- 📱 Android Developer.
-- 📖 I'm on track with learning more about Kotlin Multiplatform.
+- 🎓 Graduated from **Universidad Nacional Mayor de San Marcos**.
+- 🛠️ Experience in **multidisciplinary projects**, including IoT development and Android mobile application development, with a commitment to continuous learning for achieving better results
 - ⌚ In my free time, I enjoy playing basketball, watching anime and spending time with family.
 - 📫 Gmail: **angel.panduro1721@gmail.com**
+
+## 🚀 Some projects developed
+### Hotel Mobile Application (_under development_ & Multiplatform upgrade process using Kotlin Multiplatform (KMP))
+An application developed for customer registration, viewing registration history, and creating graphs for customer statistics from previous months, accessible via tablet or smartphone. The information is stored in a cloud database using Firebase. The application is currently being developed to support multiplatform functionality.
+<p align="center" style="width:100%; max-width:720px; margin:auto;">
+<img src="https://raw.githubusercontent.com/Angel-Jesus/Angel-Jesus/main/HTC%20Nexus%209%20Screenshot%200.png" style="width:30%; height:auto;">
+<img src="https://raw.githubusercontent.com/Angel-Jesus/Angel-Jesus/main/HTC%20Nexus%209%20Screenshot%201.png" style="width:30%; height:auto;">
+<img src="https://raw.githubusercontent.com/Angel-Jesus/Angel-Jesus/main/HTC%20Nexus%209%20Screenshot%202.png" style="width:30%; height:auto;">
+</p>
+
+<p align="center" style="width:100%; max-width:720px; margin:auto;">
+<img src="https://raw.githubusercontent.com/Angel-Jesus/Angel-Jesus/main/HTC%20Nexus%209%20Screenshot%203.png" style="width:30%; height:auto;">
+<img src="https://raw.githubusercontent.com/Angel-Jesus/Angel-Jesus/main/HTC%20Nexus%209%20Screenshot%204.png" style="width:30%; height:auto;">
+</p>
+
+
 <br>
 
 <div id="user-content-toc">
@@ -29,7 +45,6 @@
     <img src="https://skillicons.dev/icons?i=idea,androidstudio,java,kotlin,c,cpp,firebase,git,github,postman&perline=12" />
   </a>
 </p>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
