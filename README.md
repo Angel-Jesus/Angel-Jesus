@@ -17,7 +17,7 @@
 - ⌚ In my free time, I enjoy playing basketball, watching anime and spending time with family.
 - 📫 Gmail: **angel.panduro1721@gmail.com**
 
-## 🚀 Some projects developed
+## 🚀 Projects developed
 ### Hotel Mobile Application (_under development_ & Multiplatform upgrade process using Kotlin Multiplatform (KMP))
 An application developed for customer registration, viewing registration history, and creating graphs for customer statistics from previous months, accessible via tablet or smartphone. The information is stored in a cloud database using Firebase. The application is currently being developed to support multiplatform functionality.
 <p align="center" style="width:100%; max-width:720px; margin:auto;">
